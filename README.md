@@ -1,11 +1,11 @@
 ## Corporate Financial Performance Tracker (Q1 2026):
+![Corporate Health Dashboard](Corporate-Health-Tracker.png)
 
 This repository contains the visual data analysis and source metrics for corporate financial health during the first quarter of 2026. The project focuses on tracking the relationship between revenue, expenses, and overall profitability margins.
 
 ## Dashboard Overview: 
 
 The tracker provides a dual-view analysis of the company's fiscal performance:
-(Corporate-Health-Tracker-1.png)
 
 * **1. Net Profit & Profit Margin %**
 
