@@ -5,6 +5,7 @@ This repository contains the visual data analysis and source metrics for corpora
 ## Dashboard Overview: 
 
 The tracker provides a dual-view analysis of the company's fiscal performance:
+(Corporate-Health-Tracker-1.png)
 
 * **1. Net Profit & Profit Margin %**
 
@@ -34,7 +35,7 @@ A horizontal bar chart comparing gross inflows against operational outflows.
 
 ---
 
-## ## Financial Formulae Used
+## Financial Formulae Used
 
 The dashboard calculates the health of the organization using standard accounting equations:
 
@@ -44,7 +45,7 @@ $$Profit\ Margin\ \% = \left( \frac{Net\ Profit}{Total\ Revenue} \right) \times 
 
 ---
 
-## ## Analysis & Insights
+## Analysis & Insights
 
 * **Recovery Velocity:** The transition from February to March indicates a successful pivot or a seasonal revenue surge that effectively neutralized the losses from the previous month.
 * **Expense Control:** March shows the highest revenue coupled with the lowest expenses of the quarter, suggesting improved operational efficiency.
